@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JiaLi | Hua Xu</title>
-    <link>https://xuhua.github.io/author/jiali/</link>
-      <atom:link href="https://xuhua.github.io/author/jiali/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thu-xuhua.github.io/author/jiali/</link>
+      <atom:link href="https://thu-xuhua.github.io/author/jiali/index.xml" rel="self" type="application/rss+xml" />
     <description>JiaLi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Hua Xu 2021</copyright><lastBuildDate>Mon, 31 Aug 2020 15:24:04 +0800</lastBuildDate>
     <image>
-      <url>https://xuhua.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thu-xuhua.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
       <title>JiaLi</title>
-      <link>https://xuhua.github.io/author/jiali/</link>
+      <link>https://thu-xuhua.github.io/author/jiali/</link>
     </image>
     
     <item>
       <title>A joint model of extended LDA and IBTM over streaming Chinese short texts</title>
-      <link>https://xuhua.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</link>
+      <link>https://thu-xuhua.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://xuhua.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</guid>
+      <guid>https://thu-xuhua.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FastBTM: Reducing the Sampling Time for Biterm Topic Model</title>
-      <link>https://xuhua.github.io/publication/fastbtm-reducing-the-sampling-time-for-biterm-topic-model/</link>
+      <link>https://thu-xuhua.github.io/publication/fastbtm-reducing-the-sampling-time-for-biterm-topic-model/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://xuhua.github.io/publication/fastbtm-reducing-the-sampling-time-for-biterm-topic-model/</guid>
+      <guid>https://thu-xuhua.github.io/publication/fastbtm-reducing-the-sampling-time-for-biterm-topic-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Suggest what to tag: Recommending more precise hashtags based on users’ dynamic interests and streaming tweet content</title>
-      <link>https://xuhua.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</link>
+      <link>https://thu-xuhua.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</link>
       <pubDate>Wed, 31 Aug 2016 15:24:04 +0800</pubDate>
-      <guid>https://xuhua.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</guid>
+      <guid>https://thu-xuhua.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User-IBTM: An Online Framework for Hashtag Suggestion in Twitter</title>
-      <link>https://xuhua.github.io/publication/user-ibtm/</link>
+      <link>https://thu-xuhua.github.io/publication/user-ibtm/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://xuhua.github.io/publication/user-ibtm/</guid>
+      <guid>https://thu-xuhua.github.io/publication/user-ibtm/</guid>
       <description></description>
     </item>
     

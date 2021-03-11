@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ChengliangGao | Hua Xu</title>
-    <link>https://xuhua.github.io/author/chenglianggao/</link>
-      <atom:link href="https://xuhua.github.io/author/chenglianggao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thu-xuhua.github.io/author/chenglianggao/</link>
+      <atom:link href="https://thu-xuhua.github.io/author/chenglianggao/index.xml" rel="self" type="application/rss+xml" />
     <description>ChengliangGao</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Hua Xu 2021</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://xuhua.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thu-xuhua.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
       <title>ChengliangGao</title>
-      <link>https://xuhua.github.io/author/chenglianggao/</link>
+      <link>https://thu-xuhua.github.io/author/chenglianggao/</link>
     </image>
     
     <item>
       <title>Two-Stage Attention Network for Aspect-Level Sentiment Classification</title>
-      <link>https://xuhua.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</link>
+      <link>https://thu-xuhua.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://xuhua.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</guid>
+      <guid>https://thu-xuhua.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WeiweiYang | Hua Xu</title>
-    <link>https://xuhua.github.io/author/weiweiyang/</link>
-      <atom:link href="https://xuhua.github.io/author/weiweiyang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thu-xuhua.github.io/author/weiweiyang/</link>
+      <atom:link href="https://thu-xuhua.github.io/author/weiweiyang/index.xml" rel="self" type="application/rss+xml" />
     <description>WeiweiYang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Hua Xu 2021</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://xuhua.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thu-xuhua.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
       <title>WeiweiYang</title>
-      <link>https://xuhua.github.io/author/weiweiyang/</link>
+      <link>https://thu-xuhua.github.io/author/weiweiyang/</link>
     </image>
     
     <item>
       <title>Hierarchical emotion classification and emotion component analysis on chinese micro-blog posts</title>
-      <link>https://xuhua.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</link>
+      <link>https://thu-xuhua.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://xuhua.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</guid>
+      <guid>https://thu-xuhua.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constrained-hLDA for Topic Discovery in Chinese Microblogs</title>
-      <link>https://xuhua.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</link>
+      <link>https://thu-xuhua.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://xuhua.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</guid>
+      <guid>https://thu-xuhua.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</guid>
       <description></description>
     </item>
     

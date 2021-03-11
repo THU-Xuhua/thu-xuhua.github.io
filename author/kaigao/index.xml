@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KaiGao | Hua Xu</title>
-    <link>https://xuhua.github.io/author/kaigao/</link>
-      <atom:link href="https://xuhua.github.io/author/kaigao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thu-xuhua.github.io/author/kaigao/</link>
+      <atom:link href="https://thu-xuhua.github.io/author/kaigao/index.xml" rel="self" type="application/rss+xml" />
     <description>KaiGao</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Hua Xu 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://xuhua.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <url>https://thu-xuhua.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
       <title>KaiGao</title>
-      <link>https://xuhua.github.io/author/kaigao/</link>
+      <link>https://thu-xuhua.github.io/author/kaigao/</link>
     </image>
     
     <item>
       <title>Heterogeneous graph neural networks for noisy few-shot relation classification</title>
-      <link>https://xuhua.github.io/publication/heterogeneous-graph-neural-networks-for-noisy-few-shot-relation-classification/</link>
+      <link>https://thu-xuhua.github.io/publication/heterogeneous-graph-neural-networks-for-noisy-few-shot-relation-classification/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://xuhua.github.io/publication/heterogeneous-graph-neural-networks-for-noisy-few-shot-relation-classification/</guid>
+      <guid>https://thu-xuhua.github.io/publication/heterogeneous-graph-neural-networks-for-noisy-few-shot-relation-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two-Stage Attention Network for Aspect-Level Sentiment Classification</title>
-      <link>https://xuhua.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</link>
+      <link>https://thu-xuhua.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://xuhua.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</guid>
+      <guid>https://thu-xuhua.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A rule-based approach to emotion cause detection for Chinese micro-blogs</title>
-      <link>https://xuhua.github.io/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</link>
+      <link>https://thu-xuhua.github.io/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://xuhua.github.io/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</guid>
+      <guid>https://thu-xuhua.github.io/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion Cause Detection for Chinese Micro-Blogs Based on ECOCC Model</title>
-      <link>https://xuhua.github.io/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</link>
+      <link>https://thu-xuhua.github.io/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://xuhua.github.io/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</guid>
+      <guid>https://thu-xuhua.github.io/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</guid>
       <description></description>
     </item>
     
