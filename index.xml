@@ -2,509 +2,509 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hua Xu</title>
-    <link>https://thuiar.github.io/</link>
-      <atom:link href="https://thuiar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xuhua.github.io/</link>
+      <atom:link href="https://xuhua.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Hua Xu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Hua Xu 2021</copyright><lastBuildDate>Wed, 17 Feb 2021 18:38:46 +0800</lastBuildDate>
     <image>
-      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <url>https://xuhua.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
       <title>Hua Xu</title>
-      <link>https://thuiar.github.io/</link>
+      <link>https://xuhua.github.io/</link>
     </image>
     
     <item>
       <title>Data Mining: Methodology and Applications</title>
-      <link>https://thuiar.github.io/textbook/datamining-methodandapplication/</link>
+      <link>https://xuhua.github.io/textbook/datamining-methodandapplication/</link>
       <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/textbook/datamining-methodandapplication/</guid>
+      <guid>https://xuhua.github.io/textbook/datamining-methodandapplication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Petri Net: Theory and Applications</title>
-      <link>https://thuiar.github.io/monograph/petrinettheoryandapplications/</link>
+      <link>https://xuhua.github.io/monograph/petrinettheoryandapplications/</link>
       <pubDate>Fri, 01 Feb 2008 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/monograph/petrinettheoryandapplications/</guid>
+      <guid>https://xuhua.github.io/monograph/petrinettheoryandapplications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Mining: Methods and Applications - Application Cases</title>
-      <link>https://thuiar.github.io/textbook/datamining-methodandapplication-case/</link>
+      <link>https://xuhua.github.io/textbook/datamining-methodandapplication-case/</link>
       <pubDate>Fri, 01 Sep 2017 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/textbook/datamining-methodandapplication-case/</guid>
+      <guid>https://xuhua.github.io/textbook/datamining-methodandapplication-case/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Data Technology and Industry Applications</title>
-      <link>https://thuiar.github.io/textbook/bigdatatechnologyandindustryapplications/</link>
+      <link>https://xuhua.github.io/textbook/bigdatatechnologyandindustryapplications/</link>
       <pubDate>Mon, 01 Aug 2016 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/textbook/bigdatatechnologyandindustryapplications/</guid>
+      <guid>https://xuhua.github.io/textbook/bigdatatechnologyandindustryapplications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentiment Analysis and Ontology Engineering</title>
-      <link>https://thuiar.github.io/monograph/sentimentanalysisandontologyengineering/</link>
+      <link>https://xuhua.github.io/monograph/sentimentanalysisandontologyengineering/</link>
       <pubDate>Mon, 01 Feb 2016 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/monograph/sentimentanalysisandontologyengineering/</guid>
+      <guid>https://xuhua.github.io/monograph/sentimentanalysisandontologyengineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Advances in Multi-robot Systems</title>
-      <link>https://thuiar.github.io/monograph/recentadvancesinmulti-robotsystems/</link>
+      <link>https://xuhua.github.io/monograph/recentadvancesinmulti-robotsystems/</link>
       <pubDate>Fri, 01 Feb 2008 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/monograph/recentadvancesinmulti-robotsystems/</guid>
+      <guid>https://xuhua.github.io/monograph/recentadvancesinmulti-robotsystems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Geometry: Algorithms and Applications</title>
-      <link>https://thuiar.github.io/textbook/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8/</link>
+      <link>https://xuhua.github.io/textbook/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8/</link>
       <pubDate>Tue, 01 Feb 2005 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/textbook/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8/</guid>
+      <guid>https://xuhua.github.io/textbook/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Structures and Algorithms (Java Description)</title>
-      <link>https://thuiar.github.io/textbook/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0/</link>
+      <link>https://xuhua.github.io/textbook/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0/</link>
       <pubDate>Wed, 01 Feb 2006 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/textbook/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0/</guid>
+      <guid>https://xuhua.github.io/textbook/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quality Software Management (Volume 1)-System Thinking</title>
-      <link>https://thuiar.github.io/monograph/%E8%B4%A8%E9%87%8F%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/</link>
+      <link>https://xuhua.github.io/monograph/%E8%B4%A8%E9%87%8F%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/</link>
       <pubDate>Sun, 01 Feb 2004 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/monograph/%E8%B4%A8%E9%87%8F%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/</guid>
+      <guid>https://xuhua.github.io/monograph/%E8%B4%A8%E9%87%8F%E8%BD%AF%E4%BB%B6%E7%AE%A1%E7%90%86/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Psychology of Computer Programming</title>
-      <link>https://thuiar.github.io/monograph/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%BF%83%E7%90%86%E5%AD%A6%E9%93%B6%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%88/</link>
+      <link>https://xuhua.github.io/monograph/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%BF%83%E7%90%86%E5%AD%A6%E9%93%B6%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%88/</link>
       <pubDate>Sat, 01 Feb 2003 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/monograph/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%BF%83%E7%90%86%E5%AD%A6%E9%93%B6%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%88/</guid>
+      <guid>https://xuhua.github.io/monograph/%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%BF%83%E7%90%86%E5%AD%A6%E9%93%B6%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Data Sentiment Analysis in Text</title>
-      <link>https://thuiar.github.io/textbook/%E6%96%87%E6%9C%AC%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90/</link>
+      <link>https://xuhua.github.io/textbook/%E6%96%87%E6%9C%AC%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90/</link>
       <pubDate>Sat, 10 Oct 2020 11:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/textbook/%E6%96%87%E6%9C%AC%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90/</guid>
+      <guid>https://xuhua.github.io/textbook/%E6%96%87%E6%9C%AC%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Based on the product review sensibility classification method and device that improve SVMs</title>
-      <link>https://thuiar.github.io/patent/3000-based-on-the-product-review-sensibility-classification-method-and-device-that-improve-svms/</link>
+      <link>https://xuhua.github.io/patent/3000-based-on-the-product-review-sensibility-classification-method-and-device-that-improve-svms/</link>
       <pubDate>Fri, 21 Feb 2020 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3000-based-on-the-product-review-sensibility-classification-method-and-device-that-improve-svms/</guid>
+      <guid>https://xuhua.github.io/patent/3000-based-on-the-product-review-sensibility-classification-method-and-device-that-improve-svms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bank&#39;s background task runs the correlation analysis and device of batch time</title>
-      <link>https://thuiar.github.io/patent/3001-banks-background-task-runs-the-correlation-analysis-and-device-of-batch-time/</link>
+      <link>https://xuhua.github.io/patent/3001-banks-background-task-runs-the-correlation-analysis-and-device-of-batch-time/</link>
       <pubDate>Mon, 21 Oct 2019 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3001-banks-background-task-runs-the-correlation-analysis-and-device-of-batch-time/</guid>
+      <guid>https://xuhua.github.io/patent/3001-banks-background-task-runs-the-correlation-analysis-and-device-of-batch-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The many emotions sorting technique extracted based on weight study and multiple features and device</title>
-      <link>https://thuiar.github.io/patent/3002-the-many-emotions-sorting-technique-extracted-based-on-weight-study-and-multiple-features-and-device/</link>
+      <link>https://xuhua.github.io/patent/3002-the-many-emotions-sorting-technique-extracted-based-on-weight-study-and-multiple-features-and-device/</link>
       <pubDate>Fri, 09 Aug 2019 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3002-the-many-emotions-sorting-technique-extracted-based-on-weight-study-and-multiple-features-and-device/</guid>
+      <guid>https://xuhua.github.io/patent/3002-the-many-emotions-sorting-technique-extracted-based-on-weight-study-and-multiple-features-and-device/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme model based self-extendable type feature selecting method and system</title>
-      <link>https://thuiar.github.io/patent/3003-theme-model-based-self-extendable-type-feature-selecting-method-and-system/</link>
+      <link>https://xuhua.github.io/patent/3003-theme-model-based-self-extendable-type-feature-selecting-method-and-system/</link>
       <pubDate>Tue, 02 Jul 2019 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3003-theme-model-based-self-extendable-type-feature-selecting-method-and-system/</guid>
+      <guid>https://xuhua.github.io/patent/3003-theme-model-based-self-extendable-type-feature-selecting-method-and-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The sampling accelerated method of Biterm topic models</title>
-      <link>https://thuiar.github.io/patent/3004-the-sampling-accelerated-method-of-biterm-topic-models/</link>
+      <link>https://xuhua.github.io/patent/3004-the-sampling-accelerated-method-of-biterm-topic-models/</link>
       <pubDate>Fri, 31 May 2019 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3004-the-sampling-accelerated-method-of-biterm-topic-models/</guid>
+      <guid>https://xuhua.github.io/patent/3004-the-sampling-accelerated-method-of-biterm-topic-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microblog social network based topic automated recommendation method and system</title>
-      <link>https://thuiar.github.io/patent/3005-microblog-social-network-based-topic-automated-recommendation-method-and-system/</link>
+      <link>https://xuhua.github.io/patent/3005-microblog-social-network-based-topic-automated-recommendation-method-and-system/</link>
       <pubDate>Tue, 05 Feb 2019 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3005-microblog-social-network-based-topic-automated-recommendation-method-and-system/</guid>
+      <guid>https://xuhua.github.io/patent/3005-microblog-social-network-based-topic-automated-recommendation-method-and-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text summarization generation system and method based on coding-decoding deep neural networks</title>
-      <link>https://thuiar.github.io/patent/3006-text-summarization-generation-system-and-method-based-on-coding-decoding-deep-neural-networks/</link>
+      <link>https://xuhua.github.io/patent/3006-text-summarization-generation-system-and-method-based-on-coding-decoding-deep-neural-networks/</link>
       <pubDate>Tue, 05 Feb 2019 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3006-text-summarization-generation-system-and-method-based-on-coding-decoding-deep-neural-networks/</guid>
+      <guid>https://xuhua.github.io/patent/3006-text-summarization-generation-system-and-method-based-on-coding-decoding-deep-neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chinese microblogging mood sorting technique based on Markov logical network and system</title>
-      <link>https://thuiar.github.io/patent/3007-chinese-microblogging-mood-sorting-technique-based-on-markov-logical-network-and-system/</link>
+      <link>https://xuhua.github.io/patent/3007-chinese-microblogging-mood-sorting-technique-based-on-markov-logical-network-and-system/</link>
       <pubDate>Tue, 02 Oct 2018 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3007-chinese-microblogging-mood-sorting-technique-based-on-markov-logical-network-and-system/</guid>
+      <guid>https://xuhua.github.io/patent/3007-chinese-microblogging-mood-sorting-technique-based-on-markov-logical-network-and-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Context sentiment classification method and system based on user comment text</title>
-      <link>https://thuiar.github.io/patent/3008-context-sentiment-classification-method-and-system-based-on-user-comment-text/</link>
+      <link>https://xuhua.github.io/patent/3008-context-sentiment-classification-method-and-system-based-on-user-comment-text/</link>
       <pubDate>Tue, 10 Apr 2018 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3008-context-sentiment-classification-method-and-system-based-on-user-comment-text/</guid>
+      <guid>https://xuhua.github.io/patent/3008-context-sentiment-classification-method-and-system-based-on-user-comment-text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TPS trading volumes predict the method for visualizing and system with threshold range prediction</title>
-      <link>https://thuiar.github.io/patent/3009-tps-trading-volumes-predict-the-method-for-visualizing-and-system-with-threshold-range-prediction/</link>
+      <link>https://xuhua.github.io/patent/3009-tps-trading-volumes-predict-the-method-for-visualizing-and-system-with-threshold-range-prediction/</link>
       <pubDate>Fri, 09 Feb 2018 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3009-tps-trading-volumes-predict-the-method-for-visualizing-and-system-with-threshold-range-prediction/</guid>
+      <guid>https://xuhua.github.io/patent/3009-tps-trading-volumes-predict-the-method-for-visualizing-and-system-with-threshold-range-prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Method and system for excavating interest of microblog users based on LDA theme model</title>
-      <link>https://thuiar.github.io/patent/3010-method-and-system-for-excavating-interest-of-microblog-users-based-on-lda-theme-model/</link>
+      <link>https://xuhua.github.io/patent/3010-method-and-system-for-excavating-interest-of-microblog-users-based-on-lda-theme-model/</link>
       <pubDate>Thu, 19 Dec 2019 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3010-method-and-system-for-excavating-interest-of-microblog-users-based-on-lda-theme-model/</guid>
+      <guid>https://xuhua.github.io/patent/3010-method-and-system-for-excavating-interest-of-microblog-users-based-on-lda-theme-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microblog user interest finding method and system based on microblog texts</title>
-      <link>https://thuiar.github.io/patent/3011-microblog-user-interest-finding-method-and-system-based-on-microblog-texts/</link>
+      <link>https://xuhua.github.io/patent/3011-microblog-user-interest-finding-method-and-system-based-on-microblog-texts/</link>
       <pubDate>Tue, 21 Nov 2017 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3011-microblog-user-interest-finding-method-and-system-based-on-microblog-texts/</guid>
+      <guid>https://xuhua.github.io/patent/3011-microblog-user-interest-finding-method-and-system-based-on-microblog-texts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bank&#39;s backstage TPS transaction events trend forecasting method and system</title>
-      <link>https://thuiar.github.io/patent/3012-banks-backstage-tps-transaction-events-trend-forecasting-method-and-system/</link>
+      <link>https://xuhua.github.io/patent/3012-banks-backstage-tps-transaction-events-trend-forecasting-method-and-system/</link>
       <pubDate>Tue, 24 Oct 2017 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3012-banks-backstage-tps-transaction-events-trend-forecasting-method-and-system/</guid>
+      <guid>https://xuhua.github.io/patent/3012-banks-backstage-tps-transaction-events-trend-forecasting-method-and-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion classification and emotion component analyzing method and system based on microblog texts</title>
-      <link>https://thuiar.github.io/patent/3013-emotion-classification-and-emotion-component-analyzing-method-and-system-based-on-microblog-texts/</link>
+      <link>https://xuhua.github.io/patent/3013-emotion-classification-and-emotion-component-analyzing-method-and-system-based-on-microblog-texts/</link>
       <pubDate>Fri, 22 Sep 2017 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3013-emotion-classification-and-emotion-component-analyzing-method-and-system-based-on-microblog-texts/</guid>
+      <guid>https://xuhua.github.io/patent/3013-emotion-classification-and-emotion-component-analyzing-method-and-system-based-on-microblog-texts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microblog text level subject finding method and system based on seed words</title>
-      <link>https://thuiar.github.io/patent/3014-microblog-text-level-subject-finding-method-and-system-based-on-seed-words/</link>
+      <link>https://xuhua.github.io/patent/3014-microblog-text-level-subject-finding-method-and-system-based-on-seed-words/</link>
       <pubDate>Wed, 19 Apr 2017 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3014-microblog-text-level-subject-finding-method-and-system-based-on-seed-words/</guid>
+      <guid>https://xuhua.github.io/patent/3014-microblog-text-level-subject-finding-method-and-system-based-on-seed-words/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The dispatching method of multiple robot devices of film trasport cooperation and system</title>
-      <link>https://thuiar.github.io/patent/3015-the-dispatching-method-of-multiple-robot-devices-of-film-trasport-cooperation-and-system/</link>
+      <link>https://xuhua.github.io/patent/3015-the-dispatching-method-of-multiple-robot-devices-of-film-trasport-cooperation-and-system/</link>
       <pubDate>Wed, 23 Mar 2016 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3015-the-dispatching-method-of-multiple-robot-devices-of-film-trasport-cooperation-and-system/</guid>
+      <guid>https://xuhua.github.io/patent/3015-the-dispatching-method-of-multiple-robot-devices-of-film-trasport-cooperation-and-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parameter variation law simulation system oriented to function simulation of semiconductor manufacturing apparatus</title>
-      <link>https://thuiar.github.io/patent/3016-parameter-variation-law-simulation-system-oriented-to-function-simulation-of-semiconductor-manufacturing-apparatus/</link>
+      <link>https://xuhua.github.io/patent/3016-parameter-variation-law-simulation-system-oriented-to-function-simulation-of-semiconductor-manufacturing-apparatus/</link>
       <pubDate>Wed, 02 Dec 2015 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3016-parameter-variation-law-simulation-system-oriented-to-function-simulation-of-semiconductor-manufacturing-apparatus/</guid>
+      <guid>https://xuhua.github.io/patent/3016-parameter-variation-law-simulation-system-oriented-to-function-simulation-of-semiconductor-manufacturing-apparatus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A kind of skin Forecasting Methodology and prognoses system thereof</title>
-      <link>https://thuiar.github.io/patent/3017-a-kind-of-skin-forecasting-methodology-and-prognoses-system-thereof/</link>
+      <link>https://xuhua.github.io/patent/3017-a-kind-of-skin-forecasting-methodology-and-prognoses-system-thereof/</link>
       <pubDate>Wed, 12 Aug 2015 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3017-a-kind-of-skin-forecasting-methodology-and-prognoses-system-thereof/</guid>
+      <guid>https://xuhua.github.io/patent/3017-a-kind-of-skin-forecasting-methodology-and-prognoses-system-thereof/</guid>
       <description></description>
     </item>
     
     <item>
       <title>General control kernel system used for integrated circuit manufacturing equipment</title>
-      <link>https://thuiar.github.io/patent/3018-general-control-kernel-system-used-for-integrated-circuit-manufacturing-equipment/</link>
+      <link>https://xuhua.github.io/patent/3018-general-control-kernel-system-used-for-integrated-circuit-manufacturing-equipment/</link>
       <pubDate>Wed, 09 Apr 2014 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3018-general-control-kernel-system-used-for-integrated-circuit-manufacturing-equipment/</guid>
+      <guid>https://xuhua.github.io/patent/3018-general-control-kernel-system-used-for-integrated-circuit-manufacturing-equipment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Method and device for configuring and parsing dynamic protocol</title>
-      <link>https://thuiar.github.io/patent/3019-method-and-device-for-configuring-and-parsing-dynamic-protocol/</link>
+      <link>https://xuhua.github.io/patent/3019-method-and-device-for-configuring-and-parsing-dynamic-protocol/</link>
       <pubDate>Wed, 08 Jan 2014 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3019-method-and-device-for-configuring-and-parsing-dynamic-protocol/</guid>
+      <guid>https://xuhua.github.io/patent/3019-method-and-device-for-configuring-and-parsing-dynamic-protocol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Universal control system for integrated circuit manufacturing equipment</title>
-      <link>https://thuiar.github.io/patent/3020-universal-control-system-for-integrated-circuit-manufacturing-equipment/</link>
+      <link>https://xuhua.github.io/patent/3020-universal-control-system-for-integrated-circuit-manufacturing-equipment/</link>
       <pubDate>Wed, 31 Jul 2013 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3020-universal-control-system-for-integrated-circuit-manufacturing-equipment/</guid>
+      <guid>https://xuhua.github.io/patent/3020-universal-control-system-for-integrated-circuit-manufacturing-equipment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semiconductor manufacturing equipment functional simulation-oriented communication protocol mode configuration method</title>
-      <link>https://thuiar.github.io/patent/3022-semiconductor-manufacturing-equipment-functional-simulation-oriented-communication-protocol-mode-configuration-method/</link>
+      <link>https://xuhua.github.io/patent/3022-semiconductor-manufacturing-equipment-functional-simulation-oriented-communication-protocol-mode-configuration-method/</link>
       <pubDate>Wed, 12 Jun 2013 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3022-semiconductor-manufacturing-equipment-functional-simulation-oriented-communication-protocol-mode-configuration-method/</guid>
+      <guid>https://xuhua.github.io/patent/3022-semiconductor-manufacturing-equipment-functional-simulation-oriented-communication-protocol-mode-configuration-method/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal interlocking management method and device for simulation system</title>
-      <link>https://thuiar.github.io/patent/3021-internal-interlocking-management-method-and-device-for-simulation-system/</link>
+      <link>https://xuhua.github.io/patent/3021-internal-interlocking-management-method-and-device-for-simulation-system/</link>
       <pubDate>Wed, 22 May 2013 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3021-internal-interlocking-management-method-and-device-for-simulation-system/</guid>
+      <guid>https://xuhua.github.io/patent/3021-internal-interlocking-management-method-and-device-for-simulation-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallelized simulation multithread management method</title>
-      <link>https://thuiar.github.io/patent/3023-parallelized-simulation-multithread-management-method/</link>
+      <link>https://xuhua.github.io/patent/3023-parallelized-simulation-multithread-management-method/</link>
       <pubDate>Wed, 10 Apr 2013 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3023-parallelized-simulation-multithread-management-method/</guid>
+      <guid>https://xuhua.github.io/patent/3023-parallelized-simulation-multithread-management-method/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Method and apparatus for predicting antibiotic performance or critical ingredient content of detergent</title>
-      <link>https://thuiar.github.io/patent/3024-method-and-apparatus-for-predicting-antibiotic-performance-or-critical-ingredient-content-of-detergent/</link>
+      <link>https://xuhua.github.io/patent/3024-method-and-apparatus-for-predicting-antibiotic-performance-or-critical-ingredient-content-of-detergent/</link>
       <pubDate>Wed, 27 Mar 2013 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3024-method-and-apparatus-for-predicting-antibiotic-performance-or-critical-ingredient-content-of-detergent/</guid>
+      <guid>https://xuhua.github.io/patent/3024-method-and-apparatus-for-predicting-antibiotic-performance-or-critical-ingredient-content-of-detergent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communication mode management method and system for emulating semiconductor manufacturing equipment</title>
-      <link>https://thuiar.github.io/patent/3025-communication-mode-management-method-and-system-for-emulating-semiconductor-manufacturing-equipment/</link>
+      <link>https://xuhua.github.io/patent/3025-communication-mode-management-method-and-system-for-emulating-semiconductor-manufacturing-equipment/</link>
       <pubDate>Wed, 19 Dec 2012 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3025-communication-mode-management-method-and-system-for-emulating-semiconductor-manufacturing-equipment/</guid>
+      <guid>https://xuhua.github.io/patent/3025-communication-mode-management-method-and-system-for-emulating-semiconductor-manufacturing-equipment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Method and device for constructing and managing prototype device library</title>
-      <link>https://thuiar.github.io/patent/3026-method-and-device-for-constructing-and-managing-prototype-device-library/</link>
+      <link>https://xuhua.github.io/patent/3026-method-and-device-for-constructing-and-managing-prototype-device-library/</link>
       <pubDate>Wed, 10 Oct 2012 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3026-method-and-device-for-constructing-and-managing-prototype-device-library/</guid>
+      <guid>https://xuhua.github.io/patent/3026-method-and-device-for-constructing-and-managing-prototype-device-library/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulated batch configuration document management method oriented to semiconductor manufacturing equipment function</title>
-      <link>https://thuiar.github.io/patent/3027-simulated-batch-configuration-document-management-method-oriented-to-semiconductor-manufacturing-equipment-function/</link>
+      <link>https://xuhua.github.io/patent/3027-simulated-batch-configuration-document-management-method-oriented-to-semiconductor-manufacturing-equipment-function/</link>
       <pubDate>Wed, 18 Jul 2012 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3027-simulated-batch-configuration-document-management-method-oriented-to-semiconductor-manufacturing-equipment-function/</guid>
+      <guid>https://xuhua.github.io/patent/3027-simulated-batch-configuration-document-management-method-oriented-to-semiconductor-manufacturing-equipment-function/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Method and device for storing and managing configuration data of simulation system</title>
-      <link>https://thuiar.github.io/patent/3028-method-and-device-for-storing-and-managing-configuration-data-of-simulation-system/</link>
+      <link>https://xuhua.github.io/patent/3028-method-and-device-for-storing-and-managing-configuration-data-of-simulation-system/</link>
       <pubDate>Wed, 26 Nov 2008 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3028-method-and-device-for-storing-and-managing-configuration-data-of-simulation-system/</guid>
+      <guid>https://xuhua.github.io/patent/3028-method-and-device-for-storing-and-managing-configuration-data-of-simulation-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Etchingmachine cluster controller and process module controller communication system and method</title>
-      <link>https://thuiar.github.io/patent/3029-etchingmachine-cluster-controller-and-process-module-controller-communication-system-and-method/</link>
+      <link>https://xuhua.github.io/patent/3029-etchingmachine-cluster-controller-and-process-module-controller-communication-system-and-method/</link>
       <pubDate>Wed, 29 Oct 2008 15:43:29 +0800</pubDate>
-      <guid>https://thuiar.github.io/patent/3029-etchingmachine-cluster-controller-and-process-module-controller-communication-system-and-method/</guid>
+      <guid>https://xuhua.github.io/patent/3029-etchingmachine-cluster-controller-and-process-module-controller-communication-system-and-method/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discovering New Intents with Deep Aligned Clustering</title>
-      <link>https://thuiar.github.io/publication/deepaligned-clustering/</link>
+      <link>https://xuhua.github.io/publication/deepaligned-clustering/</link>
       <pubDate>Wed, 17 Feb 2021 18:38:46 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/deepaligned-clustering/</guid>
+      <guid>https://xuhua.github.io/publication/deepaligned-clustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Open Intent Classification with Adaptive Decision Boundary</title>
-      <link>https://thuiar.github.io/publication/adaptive-decision-boundary/</link>
+      <link>https://xuhua.github.io/publication/adaptive-decision-boundary/</link>
       <pubDate>Tue, 16 Feb 2021 18:38:46 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/adaptive-decision-boundary/</guid>
+      <guid>https://xuhua.github.io/publication/adaptive-decision-boundary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis</title>
-      <link>https://thuiar.github.io/publication/self-mm/</link>
+      <link>https://xuhua.github.io/publication/self-mm/</link>
       <pubDate>Mon, 15 Feb 2021 18:38:46 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/self-mm/</guid>
+      <guid>https://xuhua.github.io/publication/self-mm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CM-BERT: Cross-Modal BERT for Text-Audio Sentiment Analysis</title>
-      <link>https://thuiar.github.io/publication/cmbert/</link>
+      <link>https://xuhua.github.io/publication/cmbert/</link>
       <pubDate>Mon, 12 Oct 2020 16:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/cmbert/</guid>
+      <guid>https://xuhua.github.io/publication/cmbert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A joint model of extended LDA and IBTM over streaming Chinese short texts</title>
-      <link>https://thuiar.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</link>
+      <link>https://xuhua.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</guid>
+      <guid>https://xuhua.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A New Dominance Relation Based Evolutionary Algorithm for Many-Objective Optimization</title>
-      <link>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
+      <link>https://xuhua.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
+      <guid>https://xuhua.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
-      <link>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
+      <link>https://xuhua.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
+      <guid>https://xuhua.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Reinforcement Learning for Robust Emotional Classification in Facial Expression Recognition</title>
-      <link>https://thuiar.github.io/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</link>
+      <link>https://xuhua.github.io/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</guid>
+      <guid>https://xuhua.github.io/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FastBTM: Reducing the Sampling Time for Biterm Topic Model</title>
-      <link>https://thuiar.github.io/publication/fastbtm-reducing-the-sampling-time-for-biterm-topic-model/</link>
+      <link>https://xuhua.github.io/publication/fastbtm-reducing-the-sampling-time-for-biterm-topic-model/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/fastbtm-reducing-the-sampling-time-for-biterm-topic-model/</guid>
+      <guid>https://xuhua.github.io/publication/fastbtm-reducing-the-sampling-time-for-biterm-topic-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HGFM: A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition</title>
-      <link>https://thuiar.github.io/publication/hgfm/</link>
+      <link>https://xuhua.github.io/publication/hgfm/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/hgfm/</guid>
+      <guid>https://xuhua.github.io/publication/hgfm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving the Robustness of Machine Reading Comprehension Model with Hierarchical Knowledge and Auxiliary Unanswerability Prediction</title>
-      <link>https://thuiar.github.io/publication/improving-the-robustness-of-machine-reading-comprehension-model-with-hierarchical-knowledge-and-auxiliary-unanswerability-prediction/</link>
+      <link>https://xuhua.github.io/publication/improving-the-robustness-of-machine-reading-comprehension-model-with-hierarchical-knowledge-and-auxiliary-unanswerability-prediction/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/improving-the-robustness-of-machine-reading-comprehension-model-with-hierarchical-knowledge-and-auxiliary-unanswerability-prediction/</guid>
+      <guid>https://xuhua.github.io/publication/improving-the-robustness-of-machine-reading-comprehension-model-with-hierarchical-knowledge-and-auxiliary-unanswerability-prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Objective Reduction in Many-Objective Optimization: Evolutionary Multiobjective Approaches and Comprehensive Analysis</title>
-      <link>https://thuiar.github.io/publication/objective-reduction-in-many-objective-optimization-evolutionary-multiobjective-approaches-and-comprehensive-analysis/</link>
+      <link>https://xuhua.github.io/publication/objective-reduction-in-many-objective-optimization-evolutionary-multiobjective-approaches-and-comprehensive-analysis/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/objective-reduction-in-many-objective-optimization-evolutionary-multiobjective-approaches-and-comprehensive-analysis/</guid>
+      <guid>https://xuhua.github.io/publication/objective-reduction-in-many-objective-optimization-evolutionary-multiobjective-approaches-and-comprehensive-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality</title>
-      <link>https://thuiar.github.io/publication/chsims/</link>
+      <link>https://xuhua.github.io/publication/chsims/</link>
       <pubDate>Sun, 12 Jul 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/chsims/</guid>
+      <guid>https://xuhua.github.io/publication/chsims/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heterogeneous graph neural networks for noisy few-shot relation classification</title>
-      <link>https://thuiar.github.io/publication/heterogeneous-graph-neural-networks-for-noisy-few-shot-relation-classification/</link>
+      <link>https://xuhua.github.io/publication/heterogeneous-graph-neural-networks-for-noisy-few-shot-relation-classification/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/heterogeneous-graph-neural-networks-for-noisy-few-shot-relation-classification/</guid>
+      <guid>https://xuhua.github.io/publication/heterogeneous-graph-neural-networks-for-noisy-few-shot-relation-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement</title>
-      <link>https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</link>
+      <link>https://xuhua.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</link>
       <pubDate>Sat, 31 Aug 2019 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</guid>
+      <guid>https://xuhua.github.io/publication/discovering-new-intents-via-constrained-deep-adaptive-clustering-with-cluster-refinement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Channel Convolutional Neural Networks with Adversarial Training for Few-Shot Relation Classification</title>
-      <link>https://thuiar.github.io/publication/multi-channel-convolutional-neural-networks-with-adversarial-training-for-few-shot-relation-classification/</link>
+      <link>https://xuhua.github.io/publication/multi-channel-convolutional-neural-networks-with-adversarial-training-for-few-shot-relation-classification/</link>
       <pubDate>Sat, 31 Aug 2019 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/multi-channel-convolutional-neural-networks-with-adversarial-training-for-few-shot-relation-classification/</guid>
+      <guid>https://xuhua.github.io/publication/multi-channel-convolutional-neural-networks-with-adversarial-training-for-few-shot-relation-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Unknown Intent Detection with Margin Loss</title>
-      <link>https://thuiar.github.io/publication/deep-unknown-intent-detection-with-margin-loss/</link>
+      <link>https://xuhua.github.io/publication/deep-unknown-intent-detection-with-margin-loss/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/deep-unknown-intent-detection-with-margin-loss/</guid>
+      <guid>https://xuhua.github.io/publication/deep-unknown-intent-detection-with-margin-loss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A post-processing method for detecting unknown intent of dialogue system via pre-trained deep neural network classifier</title>
-      <link>https://thuiar.github.io/publication/a-post-processing-method-for-detecting-unknown-intent-of-dialogue-system-via-pre-trained-deep-neural-network-classifier/</link>
+      <link>https://xuhua.github.io/publication/a-post-processing-method-for-detecting-unknown-intent-of-dialogue-system-via-pre-trained-deep-neural-network-classifier/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/a-post-processing-method-for-detecting-unknown-intent-of-dialogue-system-via-pre-trained-deep-neural-network-classifier/</guid>
+      <guid>https://xuhua.github.io/publication/a-post-processing-method-for-detecting-unknown-intent-of-dialogue-system-via-pre-trained-deep-neural-network-classifier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Balancing Exploration and Exploitation in Multiobjective Batch Bayesian Optimization</title>
-      <link>https://thuiar.github.io/publication/balancing-exploration-and-exploitation-in-multiobjective-batch-bayesian-optimization/</link>
+      <link>https://xuhua.github.io/publication/balancing-exploration-and-exploitation-in-multiobjective-batch-bayesian-optimization/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/balancing-exploration-and-exploitation-in-multiobjective-batch-bayesian-optimization/</guid>
+      <guid>https://xuhua.github.io/publication/balancing-exploration-and-exploitation-in-multiobjective-batch-bayesian-optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Noisy Multiobjective Black-Box Optimization Using Bayesian Optimization</title>
-      <link>https://thuiar.github.io/publication/noisy-multiobjective-black-box-optimization-using-bayesian-optimization/</link>
+      <link>https://xuhua.github.io/publication/noisy-multiobjective-black-box-optimization-using-bayesian-optimization/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/noisy-multiobjective-black-box-optimization-using-bayesian-optimization/</guid>
+      <guid>https://xuhua.github.io/publication/noisy-multiobjective-black-box-optimization-using-bayesian-optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet Product Design</title>
-      <link>https://thuiar.github.io/talk/internet-product-design/</link>
+      <link>https://xuhua.github.io/talk/internet-product-design/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-      <guid>https://thuiar.github.io/talk/internet-product-design/</guid>
+      <guid>https://xuhua.github.io/talk/internet-product-design/</guid>
       <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
 &lt;p&gt;Lecturer: Hua Xu&lt;/p&gt;
 &lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
@@ -514,49 +514,49 @@
     
     <item>
       <title>Two-Stage Attention Network for Aspect-Level Sentiment Classification</title>
-      <link>https://thuiar.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</link>
+      <link>https://xuhua.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</guid>
+      <guid>https://xuhua.github.io/publication/two-stage-attention-network-for-aspect-level-sentiment-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Suggest what to tag: Recommending more precise hashtags based on users’ dynamic interests and streaming tweet content</title>
-      <link>https://thuiar.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</link>
+      <link>https://xuhua.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</link>
       <pubDate>Wed, 31 Aug 2016 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</guid>
+      <guid>https://xuhua.github.io/publication/suggest-what-to-tag-recommending-more-precise-hashtags-based-on-users-dynamic-interests-and-streaming-tweet-content/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BitHash: An efficient bitwise Locality Sensitive Hashing method with applications</title>
-      <link>https://thuiar.github.io/publication/bithash/</link>
+      <link>https://xuhua.github.io/publication/bithash/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/bithash/</guid>
+      <guid>https://xuhua.github.io/publication/bithash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finding overlapping community from social networks based on community forest model</title>
-      <link>https://thuiar.github.io/publication/finding-overlapping-community-from-social-networks-based-on-community-forest-model/</link>
+      <link>https://xuhua.github.io/publication/finding-overlapping-community-from-social-networks-based-on-community-forest-model/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/finding-overlapping-community-from-social-networks-based-on-community-forest-model/</guid>
+      <guid>https://xuhua.github.io/publication/finding-overlapping-community-from-social-networks-based-on-community-forest-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User-IBTM: An Online Framework for Hashtag Suggestion in Twitter</title>
-      <link>https://thuiar.github.io/publication/user-ibtm/</link>
+      <link>https://xuhua.github.io/publication/user-ibtm/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/user-ibtm/</guid>
+      <guid>https://xuhua.github.io/publication/user-ibtm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intelligent Mobile Robot: Design, Programming and Practice</title>
-      <link>https://thuiar.github.io/talk/intelligent-mobile-robot/</link>
+      <link>https://xuhua.github.io/talk/intelligent-mobile-robot/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
-      <guid>https://thuiar.github.io/talk/intelligent-mobile-robot/</guid>
+      <guid>https://xuhua.github.io/talk/intelligent-mobile-robot/</guid>
       <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
 &lt;p&gt;Lecturer: Hua Xu&lt;/p&gt;
 &lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
@@ -566,169 +566,169 @@
     
     <item>
       <title>A novel disjoint community detection algorithm for social networks based on backbone degree and expansion</title>
-      <link>https://thuiar.github.io/publication/a-novel-disjoint-community-detection-algorithm-for-social-networks-based-on-backbone-degree-and-expansion/</link>
+      <link>https://xuhua.github.io/publication/a-novel-disjoint-community-detection-algorithm-for-social-networks-based-on-backbone-degree-and-expansion/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/a-novel-disjoint-community-detection-algorithm-for-social-networks-based-on-backbone-degree-and-expansion/</guid>
+      <guid>https://xuhua.github.io/publication/a-novel-disjoint-community-detection-algorithm-for-social-networks-based-on-backbone-degree-and-expansion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A rule-based approach to emotion cause detection for Chinese micro-blogs</title>
-      <link>https://thuiar.github.io/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</link>
+      <link>https://xuhua.github.io/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</guid>
+      <guid>https://xuhua.github.io/publication/a-rule-based-approach-to-emotion-cause-detection-for-chinese-micro-blogs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Experimental Investigation of Variation Operators in Reference-Point Based Many-Objective Optimization</title>
-      <link>https://thuiar.github.io/publication/an-experimental-investigation-of-variation-operators-in-reference-point-based-many-objective-optimization/</link>
+      <link>https://xuhua.github.io/publication/an-experimental-investigation-of-variation-operators-in-reference-point-based-many-objective-optimization/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/an-experimental-investigation-of-variation-operators-in-reference-point-based-many-objective-optimization/</guid>
+      <guid>https://xuhua.github.io/publication/an-experimental-investigation-of-variation-operators-in-reference-point-based-many-objective-optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chinese comments sentiment classification based on word2vec and SVMperf</title>
-      <link>https://thuiar.github.io/publication/chinese-comments-sentiment-classification-based-on-word2vec-and-svmperf/</link>
+      <link>https://xuhua.github.io/publication/chinese-comments-sentiment-classification-based-on-word2vec-and-svmperf/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/chinese-comments-sentiment-classification-based-on-word2vec-and-svmperf/</guid>
+      <guid>https://xuhua.github.io/publication/chinese-comments-sentiment-classification-based-on-word2vec-and-svmperf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion Cause Detection for Chinese Micro-Blogs Based on ECOCC Model</title>
-      <link>https://thuiar.github.io/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</link>
+      <link>https://xuhua.github.io/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</guid>
+      <guid>https://xuhua.github.io/publication/emotion-cause-detection-for-chinese-micro-blogs-based-on-ecocc-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical emotion classification and emotion component analysis on chinese micro-blog posts</title>
-      <link>https://thuiar.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</link>
+      <link>https://xuhua.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</guid>
+      <guid>https://xuhua.github.io/publication/hierarchical-emotion-classification-and-emotion-component-analysis-on-chinese-micro-blog-posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implicit feature identification in Chinese reviews using explicit topic mining model</title>
-      <link>https://thuiar.github.io/publication/implicit-feature-identification-in-chinese-reviews-using-explicit-topic-mining-model/</link>
+      <link>https://xuhua.github.io/publication/implicit-feature-identification-in-chinese-reviews-using-explicit-topic-mining-model/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/implicit-feature-identification-in-chinese-reviews-using-explicit-topic-mining-model/</guid>
+      <guid>https://xuhua.github.io/publication/implicit-feature-identification-in-chinese-reviews-using-explicit-topic-mining-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Two-Level Hierarchical EDA Using Conjugate Priori</title>
-      <link>https://thuiar.github.io/publication/a-two-level-hierarchical-eda-using-conjugate-priori/</link>
+      <link>https://xuhua.github.io/publication/a-two-level-hierarchical-eda-using-conjugate-priori/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/a-two-level-hierarchical-eda-using-conjugate-priori/</guid>
+      <guid>https://xuhua.github.io/publication/a-two-level-hierarchical-eda-using-conjugate-priori/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Improved NSGA-III Procedure for Evolutionary Many-Objective Optimization</title>
-      <link>https://thuiar.github.io/publication/an-improved-nsga-iii-procedure-for-evolutionary-many-objective-optimization/</link>
+      <link>https://xuhua.github.io/publication/an-improved-nsga-iii-procedure-for-evolutionary-many-objective-optimization/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/an-improved-nsga-iii-procedure-for-evolutionary-many-objective-optimization/</guid>
+      <guid>https://xuhua.github.io/publication/an-improved-nsga-iii-procedure-for-evolutionary-many-objective-optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Box office prediction based on microblog</title>
-      <link>https://thuiar.github.io/publication/box-office-prediction-based-on-microblog/</link>
+      <link>https://xuhua.github.io/publication/box-office-prediction-based-on-microblog/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/box-office-prediction-based-on-microblog/</guid>
+      <guid>https://xuhua.github.io/publication/box-office-prediction-based-on-microblog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constrained-hLDA for Topic Discovery in Chinese Microblogs</title>
-      <link>https://thuiar.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</link>
+      <link>https://xuhua.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</guid>
+      <guid>https://xuhua.github.io/publication/constrained-hlda-for-topic-discovery-in-chinese-microblogs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary Many-Objective Optimization Using Ensemble Fitness Ranking</title>
-      <link>https://thuiar.github.io/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</link>
+      <link>https://xuhua.github.io/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</guid>
+      <guid>https://xuhua.github.io/publication/evolutionary-many-objective-optimization-using-ensemble-fitness-ranking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text-based emotion classification using emotion cause extraction</title>
-      <link>https://thuiar.github.io/publication/text-based-emotion-classification-using-emotion-cause-extraction/</link>
+      <link>https://xuhua.github.io/publication/text-based-emotion-classification-using-emotion-cause-extraction/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/text-based-emotion-classification-using-emotion-cause-extraction/</guid>
+      <guid>https://xuhua.github.io/publication/text-based-emotion-classification-using-emotion-cause-extraction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implicit Feature Detection via a Constrained Topic Model and SVM</title>
-      <link>https://thuiar.github.io/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</link>
+      <link>https://xuhua.github.io/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</guid>
+      <guid>https://xuhua.github.io/publication/implicit-feature-detection-via-a-constrained-topic-model-and-svm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A hybrid harmony search algorithm for the flexible job shop scheduling problem</title>
-      <link>https://thuiar.github.io/publication/a-hybrid-harmony-search-algorithm-for-the-flexible-job-shop-scheduling-problem/</link>
+      <link>https://xuhua.github.io/publication/a-hybrid-harmony-search-algorithm-for-the-flexible-job-shop-scheduling-problem/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/a-hybrid-harmony-search-algorithm-for-the-flexible-job-shop-scheduling-problem/</guid>
+      <guid>https://xuhua.github.io/publication/a-hybrid-harmony-search-algorithm-for-the-flexible-job-shop-scheduling-problem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Memetic Algorithm for the Multi-Objective Flexible Job Shop Scheduling Problem</title>
-      <link>https://thuiar.github.io/publication/a-memetic-algorithm-for-the-multi-objective-flexible-job-shop-scheduling-problem/</link>
+      <link>https://xuhua.github.io/publication/a-memetic-algorithm-for-the-multi-objective-flexible-job-shop-scheduling-problem/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/a-memetic-algorithm-for-the-multi-objective-flexible-job-shop-scheduling-problem/</guid>
+      <guid>https://xuhua.github.io/publication/a-memetic-algorithm-for-the-multi-objective-flexible-job-shop-scheduling-problem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An integrated search heuristic for large-scale flexible job shop scheduling problems</title>
-      <link>https://thuiar.github.io/publication/an-integrated-search-heuristic-for-large-scale-flexible-job-shop-scheduling-problems/</link>
+      <link>https://xuhua.github.io/publication/an-integrated-search-heuristic-for-large-scale-flexible-job-shop-scheduling-problems/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/an-integrated-search-heuristic-for-large-scale-flexible-job-shop-scheduling-problems/</guid>
+      <guid>https://xuhua.github.io/publication/an-integrated-search-heuristic-for-large-scale-flexible-job-shop-scheduling-problems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effective search for genetic-based machine learning systems via estimation of distribution algorithms and embedded feature reduction techniques</title>
-      <link>https://thuiar.github.io/publication/effective-search-for-genetic-based-machine-learning-systems-via-estimation-of-distribution-algorithms-and-embedded-feature-reduction-techniques/</link>
+      <link>https://xuhua.github.io/publication/effective-search-for-genetic-based-machine-learning-systems-via-estimation-of-distribution-algorithms-and-embedded-feature-reduction-techniques/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/effective-search-for-genetic-based-machine-learning-systems-via-estimation-of-distribution-algorithms-and-embedded-feature-reduction-techniques/</guid>
+      <guid>https://xuhua.github.io/publication/effective-search-for-genetic-based-machine-learning-systems-via-estimation-of-distribution-algorithms-and-embedded-feature-reduction-techniques/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible job shop scheduling using hybrid differential evolution algorithms</title>
-      <link>https://thuiar.github.io/publication/flexible-job-shop-scheduling-using-hybrid-differential-evolution-algorithms/</link>
+      <link>https://xuhua.github.io/publication/flexible-job-shop-scheduling-using-hybrid-differential-evolution-algorithms/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/flexible-job-shop-scheduling-using-hybrid-differential-evolution-algorithms/</guid>
+      <guid>https://xuhua.github.io/publication/flexible-job-shop-scheduling-using-hybrid-differential-evolution-algorithms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implicit feature identification via hybrid association rule mining</title>
-      <link>https://thuiar.github.io/publication/implicit-feature-identification-via-hybrid-association-rule-mining/</link>
+      <link>https://xuhua.github.io/publication/implicit-feature-identification-via-hybrid-association-rule-mining/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/implicit-feature-identification-via-hybrid-association-rule-mining/</guid>
+      <guid>https://xuhua.github.io/publication/implicit-feature-identification-via-hybrid-association-rule-mining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Industrial Data Mining</title>
-      <link>https://thuiar.github.io/talk/industrial-data-mining/</link>
+      <link>https://xuhua.github.io/talk/industrial-data-mining/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
-      <guid>https://thuiar.github.io/talk/industrial-data-mining/</guid>
+      <guid>https://xuhua.github.io/talk/industrial-data-mining/</guid>
       <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
 &lt;p&gt;Lecturer: Hua Xu&lt;/p&gt;
 &lt;p&gt;Target Audience: All Graduate and Undergraduate Students&lt;/p&gt;
@@ -738,89 +738,89 @@
     
     <item>
       <title>Effective search for Pittsburgh learning classifier systems via estimation of distribution algorithms</title>
-      <link>https://thuiar.github.io/publication/effective-search-for-pittsburgh-learning-classifier-systems-via-estimation-of-distribution-algorithms/</link>
+      <link>https://xuhua.github.io/publication/effective-search-for-pittsburgh-learning-classifier-systems-via-estimation-of-distribution-algorithms/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/effective-search-for-pittsburgh-learning-classifier-systems-via-estimation-of-distribution-algorithms/</guid>
+      <guid>https://xuhua.github.io/publication/effective-search-for-pittsburgh-learning-classifier-systems-via-estimation-of-distribution-algorithms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weakness Finder: Find product weakness from Chinese reviews by using aspects based sentiment analysis</title>
-      <link>https://thuiar.github.io/publication/weakness-finder/</link>
+      <link>https://xuhua.github.io/publication/weakness-finder/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/weakness-finder/</guid>
+      <guid>https://xuhua.github.io/publication/weakness-finder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A heuristic-based hybrid genetic-variable neighborhood search algorithm for task scheduling in heterogeneous multiprocessor system</title>
-      <link>https://thuiar.github.io/publication/a-heuristic-based-hybrid-genetic-variable-neighborhood-search-algorithm-for-task-scheduling-in-heterogeneous-multiprocessor-system/</link>
+      <link>https://xuhua.github.io/publication/a-heuristic-based-hybrid-genetic-variable-neighborhood-search-algorithm-for-task-scheduling-in-heterogeneous-multiprocessor-system/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/a-heuristic-based-hybrid-genetic-variable-neighborhood-search-algorithm-for-task-scheduling-in-heterogeneous-multiprocessor-system/</guid>
+      <guid>https://xuhua.github.io/publication/a-heuristic-based-hybrid-genetic-variable-neighborhood-search-algorithm-for-task-scheduling-in-heterogeneous-multiprocessor-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Elman neural network-based model for predicting anti-germ performances and ingredient levels with limited experimental data</title>
-      <link>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</link>
+      <link>https://xuhua.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</guid>
+      <guid>https://xuhua.github.io/publication/an-elman-neural-network-based-model-for-predicting-anti-germ-performances-and-ingredient-levels-with-limited-experimental-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clustering Product Features for Opinion Mining</title>
-      <link>https://thuiar.github.io/publication/clustering-product-features-for-opinion-mining/</link>
+      <link>https://xuhua.github.io/publication/clustering-product-features-for-opinion-mining/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/clustering-product-features-for-opinion-mining/</guid>
+      <guid>https://xuhua.github.io/publication/clustering-product-features-for-opinion-mining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constrained LDA for Grouping Product Features in Opinion Mining</title>
-      <link>https://thuiar.github.io/publication/constrained-lda-for-grouping-product-features-in-opinion-mining/</link>
+      <link>https://xuhua.github.io/publication/constrained-lda-for-grouping-product-features-in-opinion-mining/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/constrained-lda-for-grouping-product-features-in-opinion-mining/</guid>
+      <guid>https://xuhua.github.io/publication/constrained-lda-for-grouping-product-features-in-opinion-mining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting effective features for Chinese sentiment classification</title>
-      <link>https://thuiar.github.io/publication/exploiting-effective-features-for-chinese-sentiment-classification/</link>
+      <link>https://xuhua.github.io/publication/exploiting-effective-features-for-chinese-sentiment-classification/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/exploiting-effective-features-for-chinese-sentiment-classification/</guid>
+      <guid>https://xuhua.github.io/publication/exploiting-effective-features-for-chinese-sentiment-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying Evaluative Sentences in Online Discussions</title>
-      <link>https://thuiar.github.io/publication/identifying-evaluative-sentences-in-online-discussions/</link>
+      <link>https://xuhua.github.io/publication/identifying-evaluative-sentences-in-online-discussions/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/identifying-evaluative-sentences-in-online-discussions/</guid>
+      <guid>https://xuhua.github.io/publication/identifying-evaluative-sentences-in-online-discussions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Questionnaires-based skin attribute prediction using Elman neural network</title>
-      <link>https://thuiar.github.io/publication/questionnaires-based-skin-attribute-prediction-using-elman-neural-network/</link>
+      <link>https://xuhua.github.io/publication/questionnaires-based-skin-attribute-prediction-using-elman-neural-network/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/questionnaires-based-skin-attribute-prediction-using-elman-neural-network/</guid>
+      <guid>https://xuhua.github.io/publication/questionnaires-based-skin-attribute-prediction-using-elman-neural-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Task scheduling using Bayesian optimization algorithm for heterogeneous computing environments</title>
-      <link>https://thuiar.github.io/publication/task-scheduling-using-bayesian-optimization-algorithm-for-heterogeneous-computing-environments/</link>
+      <link>https://xuhua.github.io/publication/task-scheduling-using-bayesian-optimization-algorithm-for-heterogeneous-computing-environments/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/task-scheduling-using-bayesian-optimization-algorithm-for-heterogeneous-computing-environments/</guid>
+      <guid>https://xuhua.github.io/publication/task-scheduling-using-bayesian-optimization-algorithm-for-heterogeneous-computing-environments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Mining: Methods and Applications</title>
-      <link>https://thuiar.github.io/talk/data-mining-method-and-application/</link>
+      <link>https://xuhua.github.io/talk/data-mining-method-and-application/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0800</pubDate>
-      <guid>https://thuiar.github.io/talk/data-mining-method-and-application/</guid>
+      <guid>https://xuhua.github.io/talk/data-mining-method-and-application/</guid>
       <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
 &lt;p&gt;Lecturer: Hua Xu&lt;/p&gt;
 &lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
@@ -830,57 +830,57 @@
     
     <item>
       <title>Grouping Product Features Using Semi-Supervised Learning with Soft-Constraints</title>
-      <link>https://thuiar.github.io/publication/grouping-product-features-using-semi-supervised-learning-with-soft-constraints/</link>
+      <link>https://xuhua.github.io/publication/grouping-product-features-using-semi-supervised-learning-with-soft-constraints/</link>
       <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/grouping-product-features-using-semi-supervised-learning-with-soft-constraints/</guid>
+      <guid>https://xuhua.github.io/publication/grouping-product-features-using-semi-supervised-learning-with-soft-constraints/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Heuristic-Based Hybrid Genetic Algorithm for Heterogeneous Multiprocessor Scheduling</title>
-      <link>https://thuiar.github.io/publication/a-heuristic-based-hybrid-genetic-algorithm-for-heterogeneous-multiprocessor-scheduling/</link>
+      <link>https://xuhua.github.io/publication/a-heuristic-based-hybrid-genetic-algorithm-for-heterogeneous-multiprocessor-scheduling/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/a-heuristic-based-hybrid-genetic-algorithm-for-heterogeneous-multiprocessor-scheduling/</guid>
+      <guid>https://xuhua.github.io/publication/a-heuristic-based-hybrid-genetic-algorithm-for-heterogeneous-multiprocessor-scheduling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Empirical Study of Unsupervised Sentiment Classification of Chinese Reviews</title>
-      <link>https://thuiar.github.io/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</link>
+      <link>https://xuhua.github.io/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</guid>
+      <guid>https://xuhua.github.io/publication/an-empirical-study-of-unsupervised-sentiment-classification-of-chinese-reviews/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effective Structure Learning for EDA via L1-Regularizedbayesian Networks</title>
-      <link>https://thuiar.github.io/publication/effective-structure-learning-for-eda-via-l1-regularizedbayesian-networks/</link>
+      <link>https://xuhua.github.io/publication/effective-structure-learning-for-eda-via-l1-regularizedbayesian-networks/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/effective-structure-learning-for-eda-via-l1-regularizedbayesian-networks/</guid>
+      <guid>https://xuhua.github.io/publication/effective-structure-learning-for-eda-via-l1-regularizedbayesian-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature Subsumption for Sentiment Classification in Multiple Languages</title>
-      <link>https://thuiar.github.io/publication/feature-subsumption-for-sentiment-classification-in-multiple-languages/</link>
+      <link>https://xuhua.github.io/publication/feature-subsumption-for-sentiment-classification-in-multiple-languages/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/feature-subsumption-for-sentiment-classification-in-multiple-languages/</guid>
+      <guid>https://xuhua.github.io/publication/feature-subsumption-for-sentiment-classification-in-multiple-languages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross Entropy and Adaptive Variance Scaling in Continuous EDA</title>
-      <link>https://thuiar.github.io/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</link>
+      <link>https://xuhua.github.io/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://thuiar.github.io/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</guid>
+      <guid>https://xuhua.github.io/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Strcture</title>
-      <link>https://thuiar.github.io/talk/data-structure-cs/</link>
+      <link>https://xuhua.github.io/talk/data-structure-cs/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
-      <guid>https://thuiar.github.io/talk/data-structure-cs/</guid>
+      <guid>https://xuhua.github.io/talk/data-structure-cs/</guid>
       <description>&lt;p&gt;Course Classification: Tsinghua University Computer Department Undergraduate Professional Basic Course&lt;/p&gt;
 &lt;p&gt;Lecturer：Junhui Deng&lt;/p&gt;
 &lt;p&gt;Target Audience: Computer Science Undergraduate&lt;/p&gt;
@@ -890,9 +890,9 @@
     
     <item>
       <title>Data Strcture</title>
-      <link>https://thuiar.github.io/talk/data-structure/</link>
+      <link>https://xuhua.github.io/talk/data-structure/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
-      <guid>https://thuiar.github.io/talk/data-structure/</guid>
+      <guid>https://xuhua.github.io/talk/data-structure/</guid>
       <description>&lt;p&gt;Course Classification: Public Elective Courses of Tsinghua University&lt;/p&gt;
 &lt;p&gt;Lecturer：Junhui Deng&lt;/p&gt;
 &lt;p&gt;Target Audience: All Undergraduate Students&lt;/p&gt;
@@ -902,9 +902,9 @@
     
     <item>
       <title>Computational Geometry</title>
-      <link>https://thuiar.github.io/talk/computational-geometry/</link>
+      <link>https://xuhua.github.io/talk/computational-geometry/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0800</pubDate>
-      <guid>https://thuiar.github.io/talk/computational-geometry/</guid>
+      <guid>https://xuhua.github.io/talk/computational-geometry/</guid>
       <description>&lt;p&gt;Course Classification: Tsinghua University Computer Department Graduate Basic Theory Course&lt;/p&gt;
 &lt;p&gt;Lecturer：Junhui Deng, Hua Xu&lt;/p&gt;
 &lt;p&gt;Target Audience: All Graduate Students&lt;/p&gt;

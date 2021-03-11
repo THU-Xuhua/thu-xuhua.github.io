@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HuadongLi | Hua Xu</title>
-    <link>https://thuiar.github.io/author/huadongli/</link>
-      <atom:link href="https://thuiar.github.io/author/huadongli/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xuhua.github.io/author/huadongli/</link>
+      <atom:link href="https://xuhua.github.io/author/huadongli/index.xml" rel="self" type="application/rss+xml" />
     <description>HuadongLi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Hua Xu 2021</copyright><lastBuildDate>Mon, 31 Aug 2020 15:24:04 +0800</lastBuildDate>
     <image>
-      <url>https://thuiar.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
+      <url>https://xuhua.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_2.png</url>
       <title>HuadongLi</title>
-      <link>https://thuiar.github.io/author/huadongli/</link>
+      <link>https://xuhua.github.io/author/huadongli/</link>
     </image>
     
     <item>
       <title>Deep Reinforcement Learning for Robust Emotional Classification in Facial Expression Recognition</title>
-      <link>https://thuiar.github.io/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</link>
+      <link>https://xuhua.github.io/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thuiar.github.io/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</guid>
+      <guid>https://xuhua.github.io/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</guid>
       <description></description>
     </item>
     
