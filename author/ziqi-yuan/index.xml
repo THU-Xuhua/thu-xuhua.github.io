@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ziqi Yuan | Hua Xu</title>
+    <link>https://thu-xuhua.github.io/author/ziqi-yuan/</link>
+      <atom:link href="https://thu-xuhua.github.io/author/ziqi-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ziqi Yuan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Hua Xu 2022</copyright><lastBuildDate>Wed, 16 Mar 2022 15:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thu-xuhua.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
+      <title>Ziqi Yuan</title>
+      <link>https://thu-xuhua.github.io/author/ziqi-yuan/</link>
+    </image>
+    
+    <item>
+      <title>Consistent Representation Learning for Continual Relation Extraction</title>
+      <link>https://thu-xuhua.github.io/publication/m-sena/</link>
+      <pubDate>Wed, 16 Mar 2022 15:24:04 +0800</pubDate>
+      <guid>https://thu-xuhua.github.io/publication/m-sena/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
