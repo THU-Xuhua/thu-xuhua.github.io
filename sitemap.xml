@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://thu-xuhua.github.io/author/hua-xu/</loc>
-    <lastmod>2022-03-15T15:24:04+08:00</lastmod>
+    <lastmod>2022-03-20T15:43:29+08:00</lastmod>
+  </url><url>
+    <loc>https://thu-xuhua.github.io/monograph/intent/</loc>
+    <lastmod>2022-03-20T15:43:29+08:00</lastmod>
   </url><url>
     <loc>https://thu-xuhua.github.io/textbook/datamining-methodandapplication2/</loc>
     <lastmod>2022-03-02T15:43:29+08:00</lastmod>
@@ -11,7 +14,7 @@
     <loc>https://thu-xuhua.github.io/textbook/datamining-methodandapplication/</loc>
     <lastmod>2014-09-01T15:43:29+08:00</lastmod>
   </url><url>
-    <loc>https://thu-xuhua.github.io/textbook/evolutionary-machine-learning/</loc>
+    <loc>https://thu-xuhua.github.io/monograph/evolutionary-machine-learning/</loc>
     <lastmod>2014-09-01T15:43:29+08:00</lastmod>
   </url><url>
     <loc>https://thu-xuhua.github.io/monograph/petrinettheoryandapplications/</loc>
@@ -134,19 +137,22 @@
     <loc>https://thu-xuhua.github.io/patent/3029-etchingmachine-cluster-controller-and-process-module-controller-communication-system-and-method/</loc>
     <lastmod>2008-10-29T15:43:29+08:00</lastmod>
   </url><url>
+    <loc>https://thu-xuhua.github.io/authors/</loc>
+    <lastmod>2022-03-20T15:43:29+08:00</lastmod>
+  </url><url>
+    <loc>https://thu-xuhua.github.io/</loc>
+    <lastmod>2022-03-20T15:43:29+08:00</lastmod>
+  </url><url>
+    <loc>https://thu-xuhua.github.io/monograph/</loc>
+    <lastmod>2022-03-20T15:43:29+08:00</lastmod>
+  </url><url>
     <loc>https://thu-xuhua.github.io/publication-type/1/</loc>
     <lastmod>2022-03-16T15:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thu-xuhua.github.io/publication/</loc>
     <lastmod>2022-03-16T15:24:04+08:00</lastmod>
   </url><url>
-    <loc>https://thu-xuhua.github.io/authors/</loc>
-    <lastmod>2022-03-16T15:24:04+08:00</lastmod>
-  </url><url>
     <loc>https://thu-xuhua.github.io/author/hua-xu/</loc>
-    <lastmod>2022-03-16T15:24:04+08:00</lastmod>
-  </url><url>
-    <loc>https://thu-xuhua.github.io/</loc>
     <lastmod>2022-03-16T15:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thu-xuhua.github.io/author/huisheng-mao/</loc>
@@ -273,12 +279,6 @@
     <lastmod>2020-10-12T16:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thu-xuhua.github.io/publication/a-joint-model-of-extended-lda-and-ibtm-over-streaming-chinese-short-texts/</loc>
-    <lastmod>2020-08-31T15:24:04+08:00</lastmod>
-  </url><url>
-    <loc>https://thu-xuhua.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</loc>
-    <lastmod>2020-08-31T15:24:04+08:00</lastmod>
-  </url><url>
-    <loc>https://thu-xuhua.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</loc>
     <lastmod>2020-08-31T15:24:04+08:00</lastmod>
   </url><url>
     <loc>https://thu-xuhua.github.io/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</loc>
@@ -430,9 +430,6 @@
   </url><url>
     <loc>https://thu-xuhua.github.io/tag/big-data/</loc>
     <lastmod>2016-08-01T15:43:29+08:00</lastmod>
-  </url><url>
-    <loc>https://thu-xuhua.github.io/monograph/</loc>
-    <lastmod>2016-02-01T15:43:29+08:00</lastmod>
   </url><url>
     <loc>https://thu-xuhua.github.io/tag/bithash/</loc>
     <lastmod>2020-09-19T21:38:38+08:00</lastmod>
@@ -947,6 +944,9 @@
     <loc>https://thu-xuhua.github.io/author/yunpengcai/</loc>
     <lastmod>2020-09-19T21:55:55+08:00</lastmod>
   </url><url>
+    <loc>https://thu-xuhua.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</loc>
+    <lastmod>2009-08-31T15:24:04+08:00</lastmod>
+  </url><url>
     <loc>https://thu-xuhua.github.io/tag/adaptive-variance-scaling/</loc>
     <lastmod>2020-09-19T21:55:55+08:00</lastmod>
   </url><url>
@@ -969,6 +969,8 @@
     <lastmod>1997-01-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://thu-xuhua.github.io/tag/moea/d/</loc>
+  </url><url>
+    <loc>https://thu-xuhua.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</loc>
   </url><url>
     <loc>https://thu-xuhua.github.io/categories/</loc>
   </url><url>

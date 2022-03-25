@@ -5,7 +5,7 @@
     <link>https://thu-xuhua.github.io/author/hua-xu/</link>
       <atom:link href="https://thu-xuhua.github.io/author/hua-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Hua Xu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Hua Xu 2022</copyright><lastBuildDate>Tue, 15 Mar 2022 15:24:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Hua Xu 2022</copyright><lastBuildDate>Sun, 20 Mar 2022 15:43:29 +0800</lastBuildDate>
     <image>
       <url>https://thu-xuhua.github.io/images/icon_huf9441868456af88e4429501459a79a2b_153180_512x512_fill_lanczos_center_3.png</url>
       <title>Hua Xu</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Data Mining: Methodology and Applications(2)</title>
+      <title>Natural Interaction for Tri-Co Robots (1) Human-machine Dialogue Intention Understanding</title>
+      <link>https://thu-xuhua.github.io/monograph/intent/</link>
+      <pubDate>Sun, 20 Mar 2022 15:43:29 +0800</pubDate>
+      <guid>https://thu-xuhua.github.io/monograph/intent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Mining: Methodology and Applications(2nd edition)</title>
       <link>https://thu-xuhua.github.io/textbook/datamining-methodandapplication2/</link>
       <pubDate>Wed, 02 Mar 2022 15:43:29 +0800</pubDate>
       <guid>https://thu-xuhua.github.io/textbook/datamining-methodandapplication2/</guid>
@@ -30,9 +38,9 @@
     
     <item>
       <title>Evolutionary Machine Learning</title>
-      <link>https://thu-xuhua.github.io/textbook/evolutionary-machine-learning/</link>
+      <link>https://thu-xuhua.github.io/monograph/evolutionary-machine-learning/</link>
       <pubDate>Mon, 01 Sep 2014 15:43:29 +0800</pubDate>
-      <guid>https://thu-xuhua.github.io/textbook/evolutionary-machine-learning/</guid>
+      <guid>https://thu-xuhua.github.io/monograph/evolutionary-machine-learning/</guid>
       <description></description>
     </item>
     
@@ -413,22 +421,6 @@
     </item>
     
     <item>
-      <title>A New Dominance Relation Based Evolutionary Algorithm for Many-Objective Optimization</title>
-      <link>https://thu-xuhua.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
-      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thu-xuhua.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
-      <link>https://thu-xuhua.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
-      <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
-      <guid>https://thu-xuhua.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep Reinforcement Learning for Robust Emotional Classification in Facial Expression Recognition</title>
       <link>https://thu-xuhua.github.io/publication/deep-reinforcement-learning-for-robust-emotional-classification-in-facial-expression-recognition/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
@@ -445,7 +437,7 @@
     </item>
     
     <item>
-      <title>HGFM: A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition</title>
+      <title>HGFM : A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition</title>
       <link>https://thu-xuhua.github.io/publication/hgfm/</link>
       <pubDate>Mon, 31 Aug 2020 15:24:04 +0800</pubDate>
       <guid>https://thu-xuhua.github.io/publication/hgfm/</guid>
@@ -901,6 +893,14 @@
     </item>
     
     <item>
+      <title>Balancing Convergence and Diversity in Decomposition-Based Many-Objective Optimizers</title>
+      <link>https://thu-xuhua.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</link>
+      <pubDate>Mon, 31 Aug 2009 15:24:04 +0800</pubDate>
+      <guid>https://thu-xuhua.github.io/publication/balancing-convergence-and-diversity-in-decomposition-based-many-objective-optimizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cross Entropy and Adaptive Variance Scaling in Continuous EDA</title>
       <link>https://thu-xuhua.github.io/publication/cross-entropy-and-adaptive-variance-scaling-in-continuous-eda/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
@@ -918,6 +918,14 @@
 &lt;p&gt;Target Audience: All Graduate Students&lt;/p&gt;
 &lt;p&gt;Teaching Time：1997 - Today&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A New Dominance Relation Based Evolutionary Algorithm for Many-Objective Optimization</title>
+      <link>https://thu-xuhua.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thu-xuhua.github.io/publication/a-new-dominance-relation-based-evolutionary-algorithm-for-many-objective-optimization/</guid>
+      <description></description>
     </item>
     
   </channel>
